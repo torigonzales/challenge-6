@@ -21,10 +21,11 @@ function find(c) {
     return 1;
 }
 //Set up the API key
-var APIKey = "https://api.openweathermap.org/data/2.5/onecall?lat={lat}&lon={lon}&exclude={part}&appid={API key}";
+var APIKey = "bf5febefea936c9144ec3f7829565d5f"
 // Display the curent and future weather to the user after grabing the city form the input text box.
 function displayWeather(event) {
     event.preventDefault();
+    console.log(event)
     if (searchCity.val().trim() !== "") {
         city = searchCity.val().trim();
         currentWeather(city);
