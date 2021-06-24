@@ -37,7 +37,7 @@ I was able to get the Weather Dashboard to function properly!
 
 ## Resources 
 
-<a href="">GitHub Repo</a>
+<a href="https://github.com/torigonzales/challenge-6">GitHub Repo</a>
 
 <a href="https://www.youtube.com/watch?v=eVGEea7adDM"> YouTube</a>
 
